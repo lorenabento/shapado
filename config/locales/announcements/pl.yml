@@ -1,0 +1,22 @@
+# Messages for Polish (polski)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Sp5uhe
+# Author: Ty221
+pl: 
+  activerecord: 
+    attributes: 
+      announcement: 
+        ends_at: Zakończ
+        message: Komunikat
+        only_anonymous: Tylko dla anonimowych użytkowników
+        starts_at: Rozpocznij
+  announcements: 
+    actions: 
+      delete: Usuń
+      title: Działania
+    create: 
+      success: Ogłoszenie zostało utworzone.
+    index: 
+      description: Zarządzanie i tworzenie nowych ogłoszeń, które będą wyświetlane strony internetowej dla odwiedzających.
+      title: Ogłoszenia

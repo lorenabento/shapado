@@ -1,0 +1,93 @@
+# Messages for Simplified Chinese (中文（简体）‎)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Hydra
+# Author: Hzy980512
+zh-CN: 
+  feeds: 
+    feed: 饲料
+    post_new_questions: 发布新问题
+    question: 订阅此问题
+    questions: 订阅的所有问题
+    share_on_twitter: Twitter、 Facebook 和更多 …
+    tag: 订阅标记
+    user: 订阅的用户问题
+  global: 
+    actions: 动作
+    active: 激活
+    alphabetically: 按首字母顺序排列
+    anonymous: 匿名
+    blog: 博客
+    by: 由
+    by_semi: 由：
+    chat: 聊天
+    current: 现时
+    downgrade_to_free: 降级至免费配套
+    edited: 编辑过
+    edited_by: 编辑由
+    edited_by_semi: 编辑由：
+    feedback: 反馈
+    follow: 关注
+    followed_by: 关注由：
+    following: 关注的
+    from: 从 %{site}
+    group_not_found: 页面 %{url} 不存在
+    home: 首页
+    next_button: 下一步
+    open: 开放
+    or: 或
+    permission_denied: 权限被拒绝
+    please_login: 请登录
+    preview: 预览
+    previous: 前
+    privacy: 隐私
+    share: 共享
+    sign_up: 注册
+    size: 大小
+    sort_by: 排序方式：
+    tags_label: 标签：
+    tos: 条款
+    unfollow: 停止关注
+    unknown_place: 未知
+    upgrade: 升级
+    view: 查看
+    view_question: 查看问题
+    what_to_do: 你想要做什么？
+  models: 
+    question: 问题
+  preferred_languages: 
+    any: 任何
+    user: 我的首选语言
+  roles: 
+    moderator: 版主
+    owner: 主人
+    user: 平常用户
+  scaffold: 
+    add: 添加
+    are_you_sure: 你确定？
+    back: 返回
+    cancel: 取消
+    close: 关闭
+    create: 创建
+    destroy: 删除
+    details: 详细信息
+    edit: 编辑
+    more: 更多...
+    new: 添加新 %{model}
+    post_as_anonymous: 匿名发帖
+    save: 保存
+    send: 发送
+    show: 显示
+    sure: 确实要删除这 %{model} 吗？
+    update: 更新
+  time: 
+    ago: "%{time} 前"
+    today: 今天
+    yesterday: 昨天
+  views: 
+    pagination: 
+      first: 首页
+      last: 尾页
+      next: 下一页 &raquo;
+      previous: "&laquo; 前一页"
+      truncate: ⋯

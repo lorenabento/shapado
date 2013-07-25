@@ -1,0 +1,30 @@
+# Messages for tarandíne (tarandíne)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Joetaras
+roa-tara: 
+  activerecord: 
+    attributes: 
+      answer: 
+        body: Cuèrpe
+        created_at: Ccrejate 'u
+        link: Collegamende
+    models: 
+      answer: Resposte
+      answers: Resposte
+  answers: 
+    create: 
+      annon_notice: L'utende jè ggià reggistrate, pe piacere tràse.
+      flash_error: "Quacchecose ha sciute male sus 'a resposta toje. \n  Arrecuèrdete ca: \n - Le resposte vacande e repetute non ge sò permesse \n - Tu è abbesogne de aspettà 20 seconde apprime de mannà 'n'otra resposte. \n - Tu puè sulamende mannà 'na resposte pe domande.."
+      flash_notice: Grazie!
+    edit: 
+      title: Stoche a cange 'a resposte
+    form: 
+      answer_label: Respunne a 'a domande
+      comment_label: Commende sus a sta resposte
+      comment_submit: Commende
+      submit: Resposte
+    revert: 
+      title: Annulle 'a resposte
+    update: 
+      flash_notice: "'A resposte ha state aggiornate cu successe."

@@ -1,0 +1,20 @@
+# Messages for tarandíne (tarandíne)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Joetaras
+roa-tara: 
+  comments: 
+    create: 
+      flash_notice: Grazie pu commende tune
+    edit: 
+      title: Cange 'u commende
+    shared: 
+      add_comment: Aggiunge 'nu commende...
+      comment_submit: Commende
+      reply: Respunne
+      said: ditte
+    update: 
+      flash_notice: "'U commende ha state aggiornate cu successe."
+  models: 
+    comment: Commende
+    comments: Commende

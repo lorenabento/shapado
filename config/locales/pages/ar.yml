@@ -1,0 +1,35 @@
+# Messages for Arabic (العربية)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Meno25
+# Author: OsamaK
+# Author: ترجمان05
+ar: 
+  activerecord: 
+    attributes: 
+      page: 
+        js: جافاسكربت
+    models: 
+      page: الصفحة
+      pages: صفحات
+  pages: 
+    actions: 
+      create_page: أنشئ صفحة جديدة
+      edit_page: عدّل الصفحة
+      title: الإجراءات
+    create: 
+      success: أنشئت الصفحة بنجاح.
+    edit: 
+      title: تحرير صفحة
+    form: 
+      language_tip: لغة الصفحة
+    index: 
+      create_page: أنشئ صفحة جديدة
+      title: قائمة الصفحات
+      wiki: ويكي
+      wiki_pages: صفحات الويكي
+      written_in: كتبت بـ %{language}
+    new: 
+      title: صفحة جديدة
+    update: 
+      success: حُدّثت الصفحة بنجاح.

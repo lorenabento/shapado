@@ -1,0 +1,74 @@
+# Messages for Breton (brezhoneg)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Fohanno
+# Author: Fulup
+# Author: Gwenn-Ael
+# Author: Y-M D
+br: 
+  layouts: 
+    application: 
+      all: Pep tra
+      ask_question: Goulenn un dra bennak
+      badges: Badjoù
+      by_me: Ganin-me
+      collaborate: Kenlabourit
+      faq: FAG
+      feed: Heuliet
+      followed: Heuliet
+      forgot: Disoñjet ?
+      home: Degemer
+      join_group: Mont e %{group}
+      languages: Yezhoù
+      log_in: Kevreañ
+      logged: Kevreet evel %{login}
+      logout: Digevreañ
+      manage_ads: Merañ ar bruderezh
+      moderate: Habaskaat
+      need_to_signin: Ret eo deoc'h kevreañ da gentañ.
+      now: bremañ !
+      openid: 
+        explaination: "Mar fell deoc'h en em enskrivañ pe kevreañ traken, dibabit ur pourvezer openid :"
+      pages: Pajennoù
+      preferred: Kavet gwelloc'h
+      questions: Goulennoù
+      questions_in: Goulennoù e
+      questions_tagged: tikedennet gant
+      random_question: Goulenn diwar-zigouezh
+      search: Klask
+      settings: Arventennoù
+      signup: En em enskrivañ
+      subscribe: Koumanantiñ
+      tags: Balizennoù
+      title: Goulennoù & Respontoù
+      unanswered: Direspontet
+      users: Implijerien
+      welcome_from: Degemer mat ! Gouest oc'h
+    manage: 
+      access: Moned
+      actions: Oberoù
+      announcements: Kemennoù
+      appearance: Neuz
+      close_group: Serriñ ar strollad
+      constrains: Strishadurioù
+      content: Danvez
+      dashboard: dashboard
+      domain: Domani
+      general: Dre-vras
+      group_features: Perzhioù heverk
+      group_user_management: Merañ an implijerien
+      invitations: Pedadennoù
+      invoices: Fakturennoù
+      members: Izili
+      pages: Pajennoù
+      properties: Perzhioù
+      reputation: Brud
+      rewards: Prizioù
+      site_management: Merañ al lec'hienn
+      social: Sokial
+      stats: Stadegoù
+      theme: Tem
+      themes: Temoù
+      widgets: Bitrakoù
+    notifications: 
+      message: Ma ne fell ket deoc'h resevout kemennoù emgefre %{group}, e c'hellit kemmañ ho kefluniadurioù kemennoù.

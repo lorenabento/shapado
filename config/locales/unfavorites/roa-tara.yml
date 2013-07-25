@@ -1,0 +1,13 @@
+# Messages for tarandíne (tarandíne)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Joetaras
+roa-tara: 
+  activerecord: 
+    models: 
+      favorite: Preferite
+      favorites: Preferite
+  unfavorites: 
+    create: 
+      success: "'A domande ha state luate da le preferite tune"
+      unauthenticated: Tu è abbesogne de 'nu cunde pe luà 'nu preferite

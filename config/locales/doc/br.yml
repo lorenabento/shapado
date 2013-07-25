@@ -1,0 +1,43 @@
+# Messages for Breton (brezhoneg)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: Fohanno
+# Author: Fulup
+# Author: Y-M D
+br: 
+  doc: 
+    chat: 
+      title: Skor dre flap
+    plans: 
+      15millions: 15 milion pajennoù gwelet/miz
+      1million: 1 milion pajennoù gwelet/miz
+      247_all_support: Skor web, postel, flap ha pellgomz 24/7
+      5millions: 5 milion pajennoù gwelet/miz
+      all_support: Skor web, postel, flap ha pellgomz
+      basic_restrictions: Na bruderezh ebet, nag a etrefas personelaet
+      big_sites: Lec'hienn vras
+      custom_ads: Implijout ho bruderezhioù deoc'h
+      custom_analytics: Stadegoù an tremenerezh
+      custom_domain: Domani personelaet
+      custom_html: "HTML personelaet :"
+      custom_js: Ouzhpennañ ho JavaScript deoc'h-c'hwi
+      custom_themes: Implijit hor dodennoù rak-savet
+      custom_ui: Etrefas a c'heller personelaat
+      free_plan: plan digoust
+      getting_popular: Lec'hiennoù poblek
+      huge_sites: Lec'hienn ramzel
+      month: miz
+      page_views: Evit al lec'hiennoù bihan/prevez
+      plans: Planioù
+      private: Prevez
+      private_private: Moned strishaet
+      private_site: Gweredekaat ar moned prevez/foran
+      small_basic: Kregiñ ganti
+      start_monetizing: Kregiñ da c'hounit un tamm moneiz
+      support: Skor
+      title: Steuñvoù rakprenañ ha prizioù
+      unlimited: Tremenerezh nann-bevennet bep miz
+      user: implijer
+      we_offer: Profañ a reomp ivez ur
+      web_support: Skor web
+      with_unlimited: gant un tremenerezh didermenet hag hep bruderezhioù na domanioù personelaet.

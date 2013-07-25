@@ -1,0 +1,64 @@
+# Messages for Message documentation (Message documentation)
+# Exported from translatewiki.net
+# Export driver: syck-pecl
+# Author: EugeneZelenko
+# Author: Kghbln
+# Author: McDutchie
+# Author: Patcito
+# Author: Shirayuki
+qqq: 
+  feeds: 
+    feed: "{{Identical|Feed}}"
+    share_on_twitter: This message allows only 20 characters in a row. Use a line break if the translation is longer than that.
+  global: 
+    actions: "{{Identical|Action}}"
+    anonymous: "{{Identical|Anonymous}}"
+    blog: "{{Identical|Blog}}"
+    chat: "{{Identical|Chat}}"
+    current: "{{Identical|Current}}"
+    feedback: "{{Identical|Feedback}}"
+    following: "This appears on the User profile page. It appears before the list of user followed by someone (like in twitter). eg: Following: bob, bill, jack etc."
+    home: "{{Identical|Home}}"
+    next_button: "{{Identical|Next}}"
+    open: "This the infintive form of the verb (abrir in Spanish, ouvrir in French etc).\n{{Identical|Open}}"
+    or: "{{Identical|Or}}"
+    permission_denied: "{{Identical|Permission denied}}"
+    preview: "{{Identical|Preview}}"
+    previous: "{{Identical|Previous}}"
+    privacy: "{{Identical|Privacy}}"
+    share: "{{Identical|Share}}"
+    sign_up: "{{Identical|Sign up}}"
+    size: "{{Identical|Size}}"
+    sort_by: "{{Identical|Sort by}}"
+    tos: TOS = Terms of service
+    unknown_place: "{{Identical|Unknown}}"
+    view: "{{Identical|View}}"
+  number: 
+    x_time: <nowiki>%{count}</nowiki> is a number. Refers to something that has happened either never, or <nowiki>%{count}</nowiki> times.
+  preferred_languages: 
+    any: "{{Identical|Any}}"
+  roles: 
+    owner: "{{Identical|Owner}}"
+  scaffold: 
+    add: "{{Identical|Add}}"
+    are_you_sure: "{{Identical|Are you sure?}}"
+    back: "{{Identical|Back}}"
+    cancel: "{{Identical|Cancel}}"
+    close: "{{Identical|Close}}"
+    create: "{{Identical|Create}}"
+    destroy: "{{Identical|Delete}}"
+    details: "{{Identical|Details}}"
+    edit: "{{Identical|Edit}}"
+    more: "{{Identical|More}}"
+    save: "{{Identical|Save}}"
+    send: "{{Identical|Send}}"
+    show: "{{Identical|Show}}"
+    update: "{{Identical|Update}}"
+  time: 
+    today: "{{Identical|Today}}"
+  views: 
+    pagination: 
+      first: This shows at the bottom of the list of questions and link to the first page of the list.
+      last: This shows at the bottom of the list of questions and link to the last page of the list.
+      next: "{{Identical|Next}}"
+      previous: "{{Identical|Previous}}"
